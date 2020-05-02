@@ -1,6 +1,10 @@
 # Change Log
 
-All notable changes to the "berg" extension will be documented in this file.
+All notable changes to the "Berg" extension will be documented in this file.
+
+## [0.0.3]
+
+- Screenshot added to VS marketplace entry
 
 ## [0.0.2]
 
