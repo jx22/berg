@@ -1,5 +1,3 @@
-# Berg theme
-
 ![alt](https://raw.githubusercontent.com/jx22/berg/master/Screenshot.png)
 
 The Bloomberg terminal provides thousands of functions for end users, including instant messaging, corporate earnings estimates, economic data, foreign-exchange rates, commodity prices, charts and, arguably most importantly, news. Across many functions, the terminal interface is characterized by a dark background. Text and other elements stand out in colors like bright blue and bright orange, and not just price-oriented red and green.
