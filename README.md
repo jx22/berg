@@ -6,4 +6,4 @@ The Berg color theme takes inspiration from the Bloomberg terminal. It was devel
 
 A note about fonts: The suggested font for Berg is Bloomberg Prop Unicode N, which was designed by Matthew Carter and is used in the Bloomberg terminal. The font, and its bold and italic variants that are used in the Berg theme (Markdown headings and markdown italics, respectively), can be obtained by installing the Bloomberg Professional client for Windows and then the supplemental fonts program. Both of those files can be found on [the Bloomberg Professional software updates page](https://www.bloomberg.com/professional/support/software-updates/). After the supplemental files program has been installed, the specific fonts will be located in the blp\Wintrv folder.
 
-_Update (May 2, 2020): This extension is now available on [the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=teehausamberg.berg)._
+_Update (May 2, 2020): This extension is now available on the Visual Studio Marketplace._
