@@ -2,6 +2,11 @@
 
 All notable changes to the "Berg" extension will be documented in this file.
 
+## [0.0.4]
+
+- Breadcrumb picker improvements, thank you @joaomoreno
+- Zen mode header improvements
+
 ## [0.0.3]
 
 - Screenshot added to VS marketplace entry
